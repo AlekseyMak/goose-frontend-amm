@@ -11,6 +11,13 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
+       "name": "Eagle Swap",
+       "symbol": "EGL",
+       "address": "0xf3fFA652f64e7b4B7327580909c143af23817fB6",
+       "chainId": 97,
+       "decimals": 18
+    },
+    {
       "name": "Goose Golden Egg",
       "symbol": "EGG",
       "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
