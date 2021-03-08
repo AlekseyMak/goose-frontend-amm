@@ -13,6 +13,13 @@
     {
        "name": "Eagle Swap",
        "symbol": "EGL",
+       "address": "0x11D3e7410EE8F58b4d6F2b0Ed97be9A591dAa2F4",
+       "chainId": 56,
+       "decimals": 18
+    },
+    {
+       "name": "Eagle Swap",
+       "symbol": "EGL",
        "address": "0xf3fFA652f64e7b4B7327580909c143af23817fB6",
        "chainId": 97,
        "decimals": 18
